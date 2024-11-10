@@ -226,7 +226,7 @@ section {
 @media screen and (max-width: 992px) {
   #utilities {flex-direction: column}
   #weather, #funfact {max-width: 80%}
-};
+}
   
 
 /* Reminders */
