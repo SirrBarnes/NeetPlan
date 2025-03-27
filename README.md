@@ -47,6 +47,6 @@ This application is covered under the [MIT](./LICENSE) license
 - api ninja
 
 ## Questions
-Github: [kc-claas](https://github.com/kc-claas)
+Github: [Sergio Torres]([https://github.com/kc-claas](https://github.com/SirrBarnes))
 
-For additional questions, contact keithclaas@email.com
+For additional questions, contact sergiotorres.devop@gmail.com
